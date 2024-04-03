@@ -23,11 +23,6 @@ def text_process(text):
     nopunc =  [word.lower() for word in nopunc.split() if word not in stopwords.words('english')]
     return [stemmer.lemmatize(word) for word in nopunc]
 
-#split the model
-from sklearn.model_selection import train_test_split, GridSearchCV
-
-X_train,X_test=train_test_split(ser6,test_size=0.2,random_state=33)
-
 #Vectorisation : -
 
 from sklearn.feature_extraction.text import TfidfVectorizer
