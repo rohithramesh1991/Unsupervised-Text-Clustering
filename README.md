@@ -22,3 +22,6 @@ How it calculates :
 * Plot the curve of wss according to the number of clusters k.
 * The location of a bend (knee) in the plot is generally considered as an indicator of the appropriate number of clusters.
 For detailed explanation kindly refer "https://medium.com/@rohithramesh1991/unsupervised-text-clustering-using-natural-language-processing-nlp-1a8bc18b048d"
+
+## Note:
+Please don't copy the code directly and try and execute as it will give you unresolved issue. You can use these funtion on your data, so the X_train comes from your data.
