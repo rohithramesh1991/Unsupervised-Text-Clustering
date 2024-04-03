@@ -24,4 +24,4 @@ How it calculates :
 For detailed explanation kindly refer "https://medium.com/@rohithramesh1991/unsupervised-text-clustering-using-natural-language-processing-nlp-1a8bc18b048d"
 
 ## Note:
-Please don't copy the code directly and try and execute as it will give you unresolved issue. You can use these funtion on your data, so the X_train comes from your data.
+Please don't copy the code directly and try and execute as it will give you unresolved issue with respect to X_train. You can use these funtions on your data, so the X_train comes from your data.
